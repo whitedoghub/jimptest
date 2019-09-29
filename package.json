@@ -1,0 +1,25 @@
+{
+  "name": "jimptest",
+  "version": "1.0.0",
+  "description": "watermarking 그리고 이미지 위에 텍스트 표기하기 테스트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitedoghub/jimptest.git"
+  },
+  "keywords": [
+    "jimp"
+  ],
+  "author": "kbk109",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitedoghub/jimptest/issues"
+  },
+  "homepage": "https://github.com/whitedoghub/jimptest#readme",
+  "dependencies": {
+    "jimp": "^0.8.4"
+  }
+}
