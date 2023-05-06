@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/whitedoghub/jimptest#readme",
   "dependencies": {
-    "jimp": "^0.8.4"
+    "jimp": "^0.22.7"
   }
 }
